@@ -1,0 +1,2 @@
+alert icmp any any -> 10.22.192.168.136.129 an
+y (msg:"Ada PING!!"; sid:1000001;)

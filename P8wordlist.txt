@@ -1,0 +1,7 @@
+login.php
+register.php
+admin
+controllers
+logout.php
+wp-admin
+messages.php
